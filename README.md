@@ -13,5 +13,7 @@ Note: Ensure that your iOS device is running the latest version of iOS, and you 
 Specifications:
 
 •	Xcode version: Minimum deployment: 14.0. Latest version recommended.
+
 •	iOS version: Minimum deployment: 15.0. Latest version recommended.
+
 •	Mac OS version: Minimum deployment: 13.1.0 Latest version recommended.
